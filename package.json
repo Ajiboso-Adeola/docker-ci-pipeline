@@ -1,0 +1,13 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "echo \"linting...\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
